@@ -11,7 +11,7 @@ apt-get update
 
 # install basic tools
 apt-get install -y --no-install-recommends build-essential msmtp-mta python-pip python-setuptools curl cron nano wget unzip git-core ca-certificates supervisor
-pip install --upgrade pip
+#pip install --upgrade pip
 pip install shinto-cli
 
 # install nginx
